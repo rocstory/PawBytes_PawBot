@@ -26,12 +26,13 @@ Paw Bytes Twitter Bot interacts with it's customers on the social media platform
 ### 1 Tweet at Paw Bot
 - Tweet at Paw Bot with any of the hashtags associated with a Paw Pal
 
-<img src="./screenshots/step1.PNG" width="621" height="1104">
+<img src="./screenshots/step1.PNG" width="310.5" height="552">
+
 ### 2 Paw Bot replies
 - Paw Bot parses the tweet, checks if a Paw Pal has been mentioned and stores it into the database.
 -  Paw Bot then replies back to the user with a thank you message and a prompt to check the Paw Bytes webpage to view their etreat.
 
-<img src="./screenshots/step2.PNG" width="621" height="1104">
+<img src="./screenshots/step2.PNG" width="310.5" height="552">
 
 ## Project Status
 - This project is complete.
