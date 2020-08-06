@@ -12,7 +12,7 @@ Paw Bytes Twitter Bot interacts with it's customers on the social media platform
 - The Twitter bot is developed using Python.
 
 ### How it works
-- To interact with the Twitter Bot, mention @PawBytes in a tweet with the hashtag of the Paw Pal that you would like to tweet at. See table below for some of the Paw Pals and their associated hashtag.
+- To interact with Paw Bot, mention @PawBytes in a tweet with the hashtag of the Paw Pal that you would like to tweet at. See table below for some of the Paw Pals and their associated hashtag.
 - Once the tweet has been made the Twitter Bot will then store the tweet into the database and reply back with a thank you message.
 
 | Paw Pal       | Hashtag       |
@@ -26,14 +26,12 @@ Paw Bytes Twitter Bot interacts with it's customers on the social media platform
 ### 1 Tweet at Paw Bot
 - Tweet at Paw Bot with any of the hashtags associated with a Paw Pal
 
-![PawBot_Step1](./screenshots/step1.PNG)
-
+<img src="./screenshots/step1.PNG" width="500" height="700">
 ### 2 Paw Bot replies
 - Paw Bot parses the tweet, checks if a Paw Pal has been mentioned and stores it into the database.
 -  Paw Bot then replies back to the user with a thank you message and a prompt to check the Paw Bytes webpage to view their etreat.
 
-![PawBot_Step2](./screenshots/step2.PNG)
-
+<img src="./screenshots/step2.PNG" width="500" height="700">
 
 ## Project Status
 - This project is complete.
