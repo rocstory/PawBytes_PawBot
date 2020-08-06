@@ -51,6 +51,9 @@ Paw Bytes Paw Bot interacts with it's customers on the social media platform, Tw
 ## Reflection
 Developing the Paw Bytes Twitter Bot with Python was a fun experience! Taking on this project has helped me gain a better understanding of Python.
 
+## Challenges
+- There were no challenges faced when developing Paw Bot.
+
 ## Collaborators
 There are currently no collaborators on this project as of 8/5/2020
 
