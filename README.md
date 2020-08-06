@@ -3,8 +3,7 @@ The Twitter Bot was designed to be an extension of the Paw Bytes Restaurant whic
 
 Paw Bytes Twitter Bot interacts with it's customers on the social media platform, Twitter. Customers are able to leave compliments (e-treats) to any of our Paw Pals. The Twitter bot collects tweets which mentions one or more Paw Pals and stores it within the Paw Bytes database.
 
-![Paw Bytes High level map](./screenshots/pawbytes_smap.jpg =250x250)
-<img src"./screenshots/pawbytes_smap.jpg"  width=48>
+<img src="./screenshots/pawbytes_smap.jpg" width="256" height="455">
 
 
 
