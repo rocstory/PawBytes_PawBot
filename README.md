@@ -1,4 +1,11 @@
 # Paw Bytes Twitter Bot
+Paw Bytes is a three part personal project which models a fictional restaurant.
+
+The three components of this project are
+ - [React Web Application] (https://github.com/rocstory/PawBytes_WebApp)
+ - Twitter Bot
+ - [MongoDB Database](https://github.com/rocstory/PawBytes_PawBot)
+
 The Twitter Bot (Paw Bot) was designed to be an extension of the Paw Bytes Restaurant which allows customers to leave compliments (treats) to their favorite Paw Pals.
 
 Paw Bytes Paw Bot interacts with it's customers on the social media platform, Twitter. Customers are able to leave compliments (e-treats) to any of our Paw Pals. The Paw bot collects tweets which mentions one or more Paw Pals and stores it within the Paw Bytes database.
